@@ -62,5 +62,3 @@ Feel free to submit an **issue** or create a **pull request** if you wish to con
 
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
-![WhatsApp Image 2025-03-19 at 11 27 44_0684da46]()
