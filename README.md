@@ -24,11 +24,11 @@ The system consists of a Visual Basic application that sends text to the LCD mod
 Below is an example of the Visual Basic user interface for the running text application:
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/1699ca86-340d-4dbb-b304-5916aa4c40c9" alt="Running Text Interface" width="600">
+  <img src="https://github.com/user-attachments/assets/53d1692d-13cf-43bf-bbe6-081b14986215" alt="Running Text" width="600">
 </div>
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/53d1692d-13cf-43bf-bbe6-081b14986215" alt="Running Text" width="600">
+  <img src="https://github.com/user-attachments/assets/1699ca86-340d-4dbb-b304-5916aa4c40c9" alt="Running Text Interface" width="600">
 </div>
 
 ### **Functionality Explanation**
